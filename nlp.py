@@ -1,5 +1,5 @@
 # coding: utf-8
-
+# test my commit
 from nltk.tokenize.stanford_segmenter import StanfordSegmenter
 
 segmenter = StanfordSegmenter(path_to_jar="./stanford-segmenter/stanford-segmenter-3.4.1.jar",
